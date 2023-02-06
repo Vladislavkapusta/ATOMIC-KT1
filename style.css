@@ -1,0 +1,66 @@
+.m0{
+    margin: 0 auto;
+}
+.m20{
+    margin: 20px;
+}
+.mt80{
+    margin: 80px;
+}
+.ml65{
+    margin-left: 65px;
+}
+.tac{
+    text-align: center;
+}
+.asc{
+    align-self: center;
+}
+.he700{
+height: 700px;
+}
+.he20{
+    height: 20px;
+}
+.he450{
+    height: 450px;
+}
+.wi600{
+    width: 600px;
+}
+.wi100{
+    width: 100px;
+}
+.forestimg{
+    background: url(https://i.imgur.com/AbNw7cz.jpg);
+}
+.bcp5050{
+    background-position: 50px 50px;
+}
+.bcg{
+    background-color: green;
+}
+.dispf{
+    display: flex;
+}
+.dispb{
+    display: block;
+}
+.clrw{
+    color: white;
+}
+.bordr{
+    border-radius: 10px;
+}
+.bi1{
+    background-image: url(https://img.freepik.com/free-photo/beautiful-shot-of-a-forest-with-tall-green-trees_181624-20615.jpg?t=st=1675671800~exp=1675672400~hmac=39e53bcb25f233412fdb6fbdb53a42f62b762933e3e1f9fdc421aed29f6f3eb8) ;
+}
+.bi2{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(https://img.freepik.com/free-vector/hand-drawn-tree-life-in-brown-shades_23-2148703761.jpg?w=740&t=st=1675671382~exp=1675671982~hmac=5bfce3d2b52bd7e8c4c50ffbab9173081823bf5cec2bed46804b3bdf86313251);
+}
+.bcnr{
+    background-repeat: no-repeat;
+}
+.bcsc{
+    background-size: cover;
+}
